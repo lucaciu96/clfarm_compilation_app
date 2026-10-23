@@ -1,1 +1,1 @@
-# classyfarm
+# clfarm_compilation helper app
